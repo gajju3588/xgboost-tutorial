@@ -1,2 +1,2 @@
 # xgboost-tutorial
-Few sample notebooks to help wil xgboost classification and regression techniques
+Few sample notebooks to help with xgboost classification and regression techniques
